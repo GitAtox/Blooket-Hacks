@@ -1,5 +1,7 @@
 # Blooket-Hacks
- Find the hack you want
+- Download the zip file
+- Open one of the hacks in notepad
+- Find the hack you want
 - Click the copy button
 - Go to the Blooket page
 - Right click and click inspect
